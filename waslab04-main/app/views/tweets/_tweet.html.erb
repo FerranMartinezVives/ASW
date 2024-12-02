@@ -1,0 +1,27 @@
+<div id="<%= dom_id tweet %>" class="wotitem">
+  <div class="likes">
+    <span id="showLikes_<%= tweet.id %>" class="numlikes"><%= tweet.likes %></span>
+    <br>
+    <span class="smallfont">people like this</span>
+    <span>
+      <br>
+      <h3>
+        <%
+         if (!session[:created_ids].nil? && session[:created_ids].include?(tweet.id))
+            %> <%= button_to "destroy", tweet, method: :delete %>
+         <% else %>
+         <%= button_to 'like', like_tweet_path(tweet), method: :put %>
+         <%end%>
+
+      </h3>
+    </span>
+  </div>
+  <div class="item">
+    <h4>
+      <em><%= tweet.author %></em> @ <%= tweet.created_at.strftime("%H:%M") %>
+    </h4>
+    <p>
+      <%= tweet.content %>
+    </p>
+  </div>
+</div>

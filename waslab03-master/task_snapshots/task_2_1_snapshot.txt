@@ -1,0 +1,104 @@
+[
+    {
+        "id": "106459212214265411",
+        "username": "albertcuesta",
+        "acct": "albertcuesta",
+        "display_name": "Albert Cuesta :verified:",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "group": false,
+        "created_at": "2021-06-23T00:00:00.000Z",
+        "note": "<p>Teleco fent de periodista. Més tecnòleg que tecnòfil. Tecnològicament agnòstic.</p><p>Defenso el català a l&#39;Aliança <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodont.cat/@digitalencatala\" class=\"u-url mention\">@<span>digitalencatala</span></a></span>.</p><p>Edito Mobile World Live en español. Divulgo a tant la peça al diari Ara, als Matins de TV3 i al Revolució 4.0 de Catalunya Ràdio.</p><p>Abans, al Catalunya Nit de Catalunya Ràdio i al blog de l&#39;Observatorio Nacional 5G. </p><p>Rondino a ParlemClar.cat. </p><p>Anava en moto. Ara toco la bateria.</p><p>Culpable de @PolitwoopsCAT i <a href=\"https://mastodont.cat/tags/twitterencatala\" class=\"mention hashtag\" rel=\"tag\">#<span>twitterencatala</span></a>.</p><p>No dialogo amb anònims.</p>",
+        "url": "https://mastodont.cat/@albertcuesta",
+        "uri": "https://mastodont.cat/users/albertcuesta",
+        "avatar": "https://mastodont.cat/system/accounts/avatars/106/459/212/214/265/411/original/43ccbb78fd549344.jpg",
+        "avatar_static": "https://mastodont.cat/system/accounts/avatars/106/459/212/214/265/411/original/43ccbb78fd549344.jpg",
+        "header": "https://mastodont.cat/system/accounts/headers/106/459/212/214/265/411/original/d882aa9d0720eee2.jpeg",
+        "header_static": "https://mastodont.cat/system/accounts/headers/106/459/212/214/265/411/original/d882aa9d0720eee2.jpeg",
+        "followers_count": 2563,
+        "following_count": 292,
+        "statuses_count": 1328,
+        "last_status_at": "2024-03-01",
+        "noindex": false,
+        "emojis": [
+            {
+                "shortcode": "verified",
+                "url": "https://mastodont.cat/system/custom_emojis/images/000/035/808/original/cd01ca8b5936a1bb.png",
+                "static_url": "https://mastodont.cat/system/custom_emojis/images/000/035/808/static/cd01ca8b5936a1bb.png",
+                "visible_in_picker": true
+            }
+        ],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Blog",
+                "value": "<a href=\"https://albertcuesta.substack.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">albertcuesta.substack.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Podcast",
+                "value": "<a href=\"https://albertcuesta.com/subscripcio-al-podcast-diari/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">albertcuesta.com/subscripcio-a</span><span class=\"invisible\">l-podcast-diari/</span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Paper",
+                "value": "<a href=\"https://www.ara.cat/firmes/albert_cuesta/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">ara.cat/firmes/albert_cuesta/</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Telecos",
+                "value": "<a href=\"https://www.mobileworldlive.com/category/spanish/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">mobileworldlive.com/category/s</span><span class=\"invisible\">panish/</span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "109899459548028289",
+        "username": "albertcuesta",
+        "acct": "albertcuesta@mastodon.social",
+        "display_name": "",
+        "locked": false,
+        "bot": false,
+        "discoverable": false,
+        "group": false,
+        "created_at": "2018-02-21T00:00:00.000Z",
+        "note": "",
+        "url": "https://mastodon.social/@albertcuesta",
+        "uri": "https://mastodon.social/users/albertcuesta",
+        "avatar": "https://mastodont.cat/avatars/original/missing.png",
+        "avatar_static": "https://mastodont.cat/avatars/original/missing.png",
+        "header": "https://mastodont.cat/headers/original/missing.png",
+        "header_static": "https://mastodont.cat/headers/original/missing.png",
+        "followers_count": 2,
+        "following_count": 1,
+        "statuses_count": 0,
+        "last_status_at": null,
+        "emojis": [],
+        "fields": []
+    },
+    {
+        "id": "110683283119244571",
+        "username": "albertcuesta",
+        "acct": "albertcuesta@pixelfed.social",
+        "display_name": "Albert Cuesta Zaragosí",
+        "locked": false,
+        "bot": false,
+        "discoverable": false,
+        "group": false,
+        "created_at": "2023-07-09T00:00:00.000Z",
+        "note": "Teleco fent de periodista. Més tecnòleg que tecnòfil. Tecnològicament agnòstic.\n\nEdito Mobile World Live en español. Divulgo a tant la peça al diari Ara. Defenso el català a l'Aliança <a class=\"u-url mention\" href=\"https://pixelfed.social/digitalencatala.\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@digitalencatala.</a>",
+        "url": "https://pixelfed.social/albertcuesta",
+        "uri": "https://pixelfed.social/users/albertcuesta",
+        "avatar": "https://mastodont.cat/system/cache/accounts/avatars/110/683/283/119/244/571/original/3262e54d4f36c695.jpg",
+        "avatar_static": "https://mastodont.cat/system/cache/accounts/avatars/110/683/283/119/244/571/original/3262e54d4f36c695.jpg",
+        "header": "https://mastodont.cat/headers/original/missing.png",
+        "header_static": "https://mastodont.cat/headers/original/missing.png",
+        "followers_count": 0,
+        "following_count": 0,
+        "statuses_count": 0,
+        "last_status_at": "2023-10-06",
+        "emojis": [],
+        "fields": []
+    }
+]

@@ -1,0 +1,35 @@
+<h1 class="wottitle">Wall of Tweets</h1>
+<br>
+  <%= render "form", tweet: Tweet.new %>
+<br>
+
+<% if notice.present? or alert.present?%>
+<div id="notice" class="wotitem">
+<span style="color: green"><%= notice %></span>
+<span style="color: red"><%= alert %></span>
+
+</div>
+<% end %>
+
+<br>
+
+
+
+<br>
+
+<div id="walltweet">
+  <% date = nil %>
+  <% @tweets.each do |tweet| %>
+    <%
+    newDate = tweet.created_at.strftime("%A, %B %d, %Y").to_s
+    if newDate != date
+      date = newDate
+    %>
+    <h3>...... <%= date %></h3>
+    <% end %>
+
+    <%= render tweet %>
+
+
+  <% end %>
+</div>

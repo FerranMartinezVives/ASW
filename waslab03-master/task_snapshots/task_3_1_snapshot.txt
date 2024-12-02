@@ -1,0 +1,29 @@
+{
+    "id": "156105",
+    "expires_at": "2024-03-07T16:31:18.752Z",
+    "expired": false,
+    "multiple": false,
+    "votes_count": 22,
+    "voters_count": 22,
+    "voted": false,
+    "own_votes": [],
+    "options": [
+        {
+            "title": "Sí",
+            "votes_count": 8
+        },
+        {
+            "title": "Falta fer el commit",
+            "votes_count": 4
+        },
+        {
+            "title": "Estic acabant",
+            "votes_count": 3
+        },
+        {
+            "title": "No sé de què m'estàs parlant",
+            "votes_count": 7
+        }
+    ],
+    "emojis": []
+}
